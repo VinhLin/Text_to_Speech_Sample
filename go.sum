@@ -5,6 +5,8 @@ github.com/hajimehoshi/oto/v2 v2.2.0 h1:qhTriSacJ/2pdONRa90hjTvpEZH7xIP4W3itwYyE
 github.com/hajimehoshi/oto/v2 v2.2.0/go.mod h1:seWLbgHH7AyUMYKfKYT9pg7PhUu9/SisyJvNTT+ASQo=
 github.com/hegedustibor/htgo-tts v0.0.0-20230402053941-cd8d1a158135 h1:HWBBhNF2kQVwlPCmcJL3fQxkuzP2LOTiLOib5sx6swI=
 github.com/hegedustibor/htgo-tts v0.0.0-20230402053941-cd8d1a158135/go.mod h1:VBNcur+xWvaQIWCaLH8w7j68zPeqQwVfjREn2S7kYbY=
+github.com/tosone/minimp3 v1.0.1 h1:5ajMIgZKlQqJdX3KJj/wb0o1oNef9S3fuLr9T5YwQqw=
+github.com/tosone/minimp3 v1.0.1/go.mod h1:WFso0UvZL1fPit45V6RQPKxbehLI4XZaJyLs2/TJHoU=
 golang.org/x/exp v0.0.0-20190306152737-a1d7652674e8/go.mod h1:CJ0aWSM057203Lf6IL+f9T1iT9GByDxfZKAQTCR3kQA=
 golang.org/x/image v0.0.0-20190227222117-0694c2d4d067/go.mod h1:kZ7UVZpmo3dzQBMxlp+ypCbDeSB+sBbTgSJuh5dn5js=
 golang.org/x/mobile v0.0.0-20190415191353-3e0bab5405d6/go.mod h1:E/iHnbuqvinMTCcRqshq8CkpyQDoeVncDDYHnLhea+o=

@@ -10,9 +10,14 @@ Sample code convert Text to Speech use Golang
 
 ### Tài liệu khác
 - https://pkg.go.dev/github.com/pqyptixa/tts2media
+- Tham khảo
+```
+go get -u github.com/tosone/minimp3
 
+go get github.com/hajimehoshi/go-mp3/mp3
+```
 
-
-
-
+---------------------------------------------------------------------------------
+## TODO
+- [] Convert **mp3** to **wav (mono 8 bit, 8000 Hz)
 
